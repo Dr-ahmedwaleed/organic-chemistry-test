@@ -1,0 +1,573 @@
+{
+    "totalExams": 1,
+    "exams": [
+        {
+            "id": "organic_chemistry_lecture_1",
+            "title": "Organic Chemistry Lecture 1",
+            "filename": "Organic Chemistry Lecture 1.txt",
+            "count": 51,
+            "questions": [
+                {
+                    "question": "What is the trivial name of this compound?",
+                    "answer": "C",
+                    "image": "images/org11.svg",
+                    "type": "mcq",
+                    "options": [
+                        "A) 2H-Pyran",
+                        "B) Tetrahydrofuran",
+                        "C) Furan",
+                        "D) 4H-Pyran"
+                    ]
+                },
+                {
+                    "question": "What is the trivial name of this compound?",
+                    "answer": "A",
+                    "image": "images/org12.svg",
+                    "type": "mcq",
+                    "options": [
+                        "A) Pyridine",
+                        "B) Pyridazine",
+                        "C) Pyrimidine",
+                        "D) Pyrazine"
+                    ]
+                },
+                {
+                    "question": "The trivial name of this compound is \"morpholine.\"",
+                    "answer": "A",
+                    "image": "images/org13.svg",
+                    "type": "mcq",
+                    "options": [
+                        "A) True",
+                        "B) False"
+                    ]
+                },
+                {
+                    "question": "What is the IUPAC name of this compound?",
+                    "answer": "C",
+                    "image": "images/org14.svg",
+                    "type": "mcq",
+                    "options": [
+                        "A) 1,3,4-Dithiazine",
+                        "B) 1,5,2-Dithiazin",
+                        "C) 1,5,2-Dithiazine",
+                        "D) 1,3,4-Dithiazane"
+                    ]
+                },
+                {
+                    "question": "What is the IUPAC name of this compound?",
+                    "answer": "A",
+                    "image": "images/org15.svg",
+                    "type": "mcq",
+                    "options": [
+                        "A) 2-methyl-1,2,3-Oxadiazete",
+                        "B) 2-methyl-1,2,3-Oxadiazetidine",
+                        "C) 2-methyl-1,2,3-Oxadiazetane",
+                        "D) None of the above"
+                    ]
+                },
+                {
+                    "question": "What is the IUPAC name of this compound?",
+                    "answer": "oxirane",
+                    "image": "images/org16.svg",
+                    "type": "text",
+                    "options": []
+                },
+                {
+                    "question": "What is the IUPAC name of this compound?",
+                    "answer": "aziridine",
+                    "image": "images/org17.svg",
+                    "type": "text",
+                    "options": []
+                },
+                {
+                    "question": "What is the IUPAC name of this compound?",
+                    "answer": "B",
+                    "image": "images/org18.svg",
+                    "type": "mcq",
+                    "options": [
+                        "A) 1,2,5-Oxadiazolane",
+                        "B) 1,2,5-Oxadiazole",
+                        "C) 1,2,3-Oxadiazole",
+                        "D) 1,2,5-Oxadiazolidine"
+                    ]
+                },
+                {
+                    "question": "What is the IUPAC name of this compound?",
+                    "answer": "perhydroazine",
+                    "image": "images/org19.svg",
+                    "type": "text",
+                    "options": []
+                },
+                {
+                    "question": "What is the IUPAC name of this compound?",
+                    "answer": "D",
+                    "image": "images/org110.svg",
+                    "type": "mcq",
+                    "options": [
+                        "A) 2-Methyl-1,4,5-oxathiazine",
+                        "B) 6-Methyl-1,4,3-oxathiazane",
+                        "C) 6-Methyl-1,4,3-oxathiazin",
+                        "D) 6-Methyl-1,4,3-oxathiazine"
+                    ]
+                },
+                {
+                    "question": "What is the IUPAC name of this compound?",
+                    "answer": "C",
+                    "image": "images/org111.svg",
+                    "type": "mcq",
+                    "options": [
+                        "A) 5-Amino-1,2,4-oxathiazin",
+                        "B) 5-Amino-1,2,4-oxathiazane",
+                        "C) 5-Amino-1,2,4-oxathiazine",
+                        "D) 3-Amino-1,4,6-oxathiazine"
+                    ]
+                },
+                {
+                    "question": "What is the IUPAC name of this compound?",
+                    "answer": "A",
+                    "image": "images/org112.svg",
+                    "type": "mcq",
+                    "options": [
+                        "A) 2-methylazete",
+                        "B) 2-methylazetidine",
+                        "C) 2-methylazetane",
+                        "D) 2-methylazane"
+                    ]
+                },
+                {
+                    "question": "What is the IUPAC name of this compound?",
+                    "answer": "B",
+                    "image": "images/org113.svg",
+                    "type": "mcq",
+                    "options": [
+                        "A) 2,6-dihydro-1,5,2-dithiazin",
+                        "B) 2,6-dihydro-1,5,2-dithiazine",
+                        "C) 6-dihydro-1,5,2-dithiazine",
+                        "D) 2,6-dihydro-1,5,2-dithiazane"
+                    ]
+                },
+                {
+                    "question": "What is the IUPAC name of this compound?",
+                    "answer": "C",
+                    "image": "images/org114.svg",
+                    "type": "mcq",
+                    "options": [
+                        "A) 2,3-dihydro-azirine",
+                        "B) 2H-azirine",
+                        "C) 1H-azirine",
+                        "D) 3H-azirine"
+                    ]
+                },
+                {
+                    "question": "What is the IUPAC name of this compound?",
+                    "answer": "A",
+                    "image": "images/org115.svg",
+                    "type": "mcq",
+                    "options": [
+                        "A) 2H-oxazete",
+                        "B) 4H-oxazete",
+                        "C) 2,3-dihydro-oxazete",
+                        "D) 2H-oxazetane"
+                    ]
+                },
+                {
+                    "question": "What is the IUPAC name of this compound?",
+                    "answer": "B",
+                    "image": "images/org116.svg",
+                    "type": "mcq",
+                    "options": [
+                        "A) 2,3-dihydro-azirine",
+                        "B) 1,4-dihydro-1,2-diazete",
+                        "C) 2,3-dihydro-oxazete",
+                        "D) 2,6-dihydro-1,5,2-dithiazane"
+                    ]
+                },
+                {
+                    "question": "What is the IUPAC name of this compound?",
+                    "answer": "D",
+                    "image": "images/org117.svg",
+                    "type": "mcq",
+                    "options": [
+                        "A) 1,2,5-Oxadiazolane",
+                        "B) 3,6-dihydro-2H-1,3,4-oxdiazane",
+                        "C) 5-Amino-1,2,4-oxathiazane",
+                        "D) 3,6-dihydro-2H-1,3,4-oxdiazine"
+                    ]
+                },
+                {
+                    "question": "What is the IUPAC name of this compound?",
+                    "answer": "A",
+                    "image": "images/org118.svg",
+                    "type": "mcq",
+                    "options": [
+                        "A) 4,5-dihydro-1H-1,2,4-triazin-6-one",
+                        "B) 3,6-dihydro-2H-1,3,4-oxdiazane",
+                        "C) 1,4-dihydro-5H-1,2,4-triazin-6-one",
+                        "D) 3,6-dihydro-2H-1,3,4-oxdiazine"
+                    ]
+                },
+                {
+                    "question": "What is the IUPAC name of this compound?",
+                    "answer": "A",
+                    "image": "images/org119.svg",
+                    "type": "mcq",
+                    "options": [
+                        "A) 2-methylfuran",
+                        "B) Tetrahydrofuran",
+                        "C) 2-methylpyran",
+                        "D) 4H-Pyran"
+                    ]
+                },
+                {
+                    "question": "What is the IUPAC name of this compound?",
+                    "answer": "B",
+                    "image": "images/org120.svg",
+                    "type": "mcq",
+                    "options": [
+                        "A) 5-chloropyrazine",
+                        "B) 5-chloropyrimidine",
+                        "C) 5-chloropyridine",
+                        "D) 5-chloropyridazine"
+                    ]
+                },
+                {
+                    "question": "What is the IUPAC name of this compound?",
+                    "answer": "D",
+                    "image": "images/org121.svg",
+                    "type": "mcq",
+                    "options": [
+                        "A) Pyrrole",
+                        "B) Pyrrolidine",
+                        "C) Imidazole",
+                        "D) Pyrazole"
+                    ]
+                },
+                {
+                    "question": "What is the IUPAC name of this compound?",
+                    "answer": "C",
+                    "image": "images/org122.svg",
+                    "type": "mcq",
+                    "options": [
+                        "A) perhydro-6-chloro-1,3-oxazin",
+                        "B) perhydro-6-chloro-1,3-oxazane",
+                        "C) perhydro-6-chloro-1,3-oxazine",
+                        "D) 6-chloro-1,3-oxazine"
+                    ]
+                },
+                {
+                    "question": "What is the IUPAC name of this compound?",
+                    "answer": "B",
+                    "image": "images/org123.svg",
+                    "type": "mcq",
+                    "options": [
+                        "A) 1,3-dihydro-diazete",
+                        "B) 1,3-diazete",
+                        "C) 1,3-diazetidine",
+                        "D) 1,3-diazetane"
+                    ]
+                },
+                {
+                    "question": "What is the IUPAC name of this compound?",
+                    "answer": "D",
+                    "image": "images/org124.svg",
+                    "type": "mcq",
+                    "options": [
+                        "A) 1,3-dihydro-dioxolane",
+                        "B) 1,3-dioxole",
+                        "C) 1,3-dioxolidine",
+                        "D) 1,3-dioxolane"
+                    ]
+                },
+                {
+                    "question": "What is the IUPAC name of this compound?",
+                    "answer": "B",
+                    "image": "images/org125.svg",
+                    "type": "mcq",
+                    "options": [
+                        "A) 6-nitro-1,2,4-triazin",
+                        "B) 6-nitro-1,2,4-triazine",
+                        "C) 5-nitro-1,2,4-triazine",
+                        "D) 5-nitro-1,3,4-triazine"
+                    ]
+                },
+                {
+                    "question": "What is the IUPAC name of this compound?",
+                    "answer": "C",
+                    "image": "images/org126.svg",
+                    "type": "mcq",
+                    "options": [
+                        "A) 1,2-oxazetane",
+                        "B) 1,2-oxazete",
+                        "C) 1,2-oxazetidine",
+                        "D) 1,2-oxazane"
+                    ]
+                },
+                {
+                    "question": "What is the IUPAC name of this compound?",
+                    "answer": "B",
+                    "image": "images/org127.svg",
+                    "type": "mcq",
+                    "options": [
+                        "A) 5-phenyl-oxazolane",
+                        "B) 5-phenyl-oxazolidine",
+                        "C) 5-phenyl-oxazole",
+                        "D) None of the above"
+                    ]
+                },
+                {
+                    "question": "What is the IUPAC name of this compound?",
+                    "answer": "C",
+                    "image": "images/org128.svg",
+                    "type": "mcq",
+                    "options": [
+                        "A) 2-methyl-1,3,4-thiadiazole",
+                        "B) 2-acetyl-1,3,4-thiadiazolidine",
+                        "C) 2-acetyl-1,3,4-thiadiazole",
+                        "D) 2-acetyl-1,3,4-thiadiazolane"
+                    ]
+                },
+                {
+                    "question": "What is the IUPAC name of this compound?",
+                    "answer": "D",
+                    "image": "images/org129.svg",
+                    "type": "mcq",
+                    "options": [
+                        "A) 2-Amino-3-cyano azine",
+                        "B) 2-Amino-3-cyanopyridin",
+                        "C) 2-Amino-3-cyanopyridine",
+                        "D) Both A and C"
+                    ]
+                },
+                {
+                    "question": "What is the IUPAC name of this compound?",
+                    "answer": "A",
+                    "image": "images/org130.svg",
+                    "type": "mcq",
+                    "options": [
+                        "A) 3-bromo-1,2,4-oxadiazole",
+                        "B) 1,2,3-Oxadiazole",
+                        "C) 3-bromo-1,2,4-oxadiazolane",
+                        "D) 2-acetyl-1,3,4-thiadiazolane"
+                    ]
+                },
+                {
+                    "question": "What is the IUPAC name of this compound?",
+                    "answer": "B",
+                    "image": "images/org131.svg",
+                    "type": "mcq",
+                    "options": [
+                        "A) perhydrothiepine",
+                        "B) thiepane",
+                        "C) thiepine",
+                        "D) thiepin"
+                    ]
+                },
+                {
+                    "question": "What is the IUPAC name of this compound?",
+                    "answer": "A",
+                    "image": "images/org132.svg",
+                    "type": "mcq",
+                    "options": [
+                        "A) 4-ethyl-1,2,3,5-tetrazine",
+                        "B) 2-ethyl-1,3,4,5-tetrazin",
+                        "C) 4-ethyl-1,2,3,5-tetrazin",
+                        "D) 2-ethyl-1,3,4,5-tetrazine"
+                    ]
+                },
+                {
+                    "question": "What is the IUPAC name of this compound?",
+                    "answer": "B",
+                    "image": "images/org133.svg",
+                    "type": "mcq",
+                    "options": [
+                        "A) 3H-1,3,4-oxadiazin-2-thione",
+                        "B) 3H-1,3,4-oxadiazol-2-thione",
+                        "C) 1,4-dihydro-5H-1,2,4-triazin-6-one",
+                        "D) 3H-1,3,4-oxadiazol-2-one"
+                    ]
+                },
+                {
+                    "question": "What is the trivial name of this compound?",
+                    "answer": "B",
+                    "image": "images/org134.svg",
+                    "type": "mcq",
+                    "options": [
+                        "A) Pyrazole",
+                        "B) Pyrrole",
+                        "C) Pyran",
+                        "D) Pyrazine"
+                    ]
+                },
+                {
+                    "question": "What is the trivial name of this compound?",
+                    "answer": "Thiophene",
+                    "image": "images/org135.svg",
+                    "type": "text",
+                    "options": []
+                },
+                {
+                    "question": "What is the trivial name of this compound?",
+                    "answer": "Imidazole",
+                    "image": "images/org136.svg",
+                    "type": "text",
+                    "options": []
+                },
+                {
+                    "question": "What is the trivial name of this compound?",
+                    "answer": "C",
+                    "image": "images/org137.svg",
+                    "type": "mcq",
+                    "options": [
+                        "A) Oxazole",
+                        "B) Isothiazole",
+                        "C) Thiazole",
+                        "D) Isoxazole"
+                    ]
+                },
+                {
+                    "question": "What is the trivial name of this compound?",
+                    "answer": "A",
+                    "image": "images/org138.svg",
+                    "type": "mcq",
+                    "options": [
+                        "A) Oxazole",
+                        "B) Isothiazole",
+                        "C) Thiazole",
+                        "D) Isoxazole"
+                    ]
+                },
+                {
+                    "question": "What is the trivial name of this compound?",
+                    "answer": "B",
+                    "image": "images/org139.svg",
+                    "type": "mcq",
+                    "options": [
+                        "A) Oxazole",
+                        "B) Isothiazole",
+                        "C) Thiazole",
+                        "D) Isoxazole"
+                    ]
+                },
+                {
+                    "question": "What is the trivial name of this compound?",
+                    "answer": "D",
+                    "image": "images/org140.svg",
+                    "type": "mcq",
+                    "options": [
+                        "A) Oxazole",
+                        "B) Isothiazole",
+                        "C) Thiazole",
+                        "D) Isoxazole"
+                    ]
+                },
+                {
+                    "question": "What is the trivial name of this compound?",
+                    "answer": "Pyrazole",
+                    "image": "images/org141.svg",
+                    "type": "text",
+                    "options": []
+                },
+                {
+                    "question": "What is the trivial name of this compound?",
+                    "answer": "B",
+                    "image": "images/org142.svg",
+                    "type": "mcq",
+                    "options": [
+                        "A) Pyridine",
+                        "B) Pyridazine",
+                        "C) Pyrimidine",
+                        "D) Pyrazine"
+                    ]
+                },
+                {
+                    "question": "What is the trivial name of this compound?",
+                    "answer": "C",
+                    "image": "images/org143.svg",
+                    "type": "mcq",
+                    "options": [
+                        "A) Pyridine",
+                        "B) Pyridazine",
+                        "C) Pyrimidine",
+                        "D) Pyrazine"
+                    ]
+                },
+                {
+                    "question": "What is the trivial name of this compound?",
+                    "answer": "D",
+                    "image": "images/org144.svg",
+                    "type": "mcq",
+                    "options": [
+                        "A) Pyridine",
+                        "B) Pyridazine",
+                        "C) Pyrimidine",
+                        "D) Pyrazine"
+                    ]
+                },
+                {
+                    "question": "What is the trivial name of this compound?",
+                    "answer": "2H-pyran",
+                    "image": "images/org145.svg",
+                    "type": "text",
+                    "options": []
+                },
+                {
+                    "question": "What is the trivial name of this compound?",
+                    "answer": "4H-pyran",
+                    "image": "images/org146.svg",
+                    "type": "text",
+                    "options": []
+                },
+                {
+                    "question": "What is the trivial name of this compound?",
+                    "answer": "tetrahydrofuran",
+                    "image": "images/org147.svg",
+                    "type": "text",
+                    "options": []
+                },
+                {
+                    "question": "What is the trivial name of this compound?",
+                    "answer": "tetrahydrothiophene",
+                    "image": "images/org148.svg",
+                    "type": "text",
+                    "options": []
+                },
+                {
+                    "question": "What is the trivial name of this compound?",
+                    "answer": "A",
+                    "image": "images/org149.svg",
+                    "type": "mcq",
+                    "options": [
+                        "A) Pyrrolidine",
+                        "B) piperazine",
+                        "C) Piperidine",
+                        "D) Pyrazine"
+                    ]
+                },
+                {
+                    "question": "What is the trivial name of this compound?",
+                    "answer": "C",
+                    "image": "images/org150.svg",
+                    "type": "mcq",
+                    "options": [
+                        "A) Pyrrolidine",
+                        "B) piperazine",
+                        "C) Piperidine",
+                        "D) Pyrazine"
+                    ]
+                },
+                {
+                    "question": "What is the trivial name of this compound?",
+                    "answer": "B",
+                    "image": "images/org151.svg",
+                    "type": "mcq",
+                    "options": [
+                        "A) Pyrrolidine",
+                        "B) piperazine",
+                        "C) Piperidine",
+                        "D) Pyrazine"
+                    ]
+                }
+            ]
+        }
+    ]
+}

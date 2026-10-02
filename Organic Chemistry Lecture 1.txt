@@ -1,0 +1,439 @@
+### Question 1
+
+What is the trivial name of this compound?
+IMAGE: images/org11.svg
+A) 2H-Pyran
+B) Tetrahydrofuran
+C) Furan
+D) 4H-Pyran
+Answer: C	
+
+### Question 2
+
+What is the trivial name of this compound?
+IMAGE: images/org12.svg
+A) Pyridine
+B) Pyridazine
+C) Pyrimidine
+D) Pyrazine
+Answer: A
+
+### Question 3
+
+The trivial name of this compound is "morpholine."
+IMAGE: images/org13.svg
+A) True
+B) False
+Answer: A
+
+### Question 4
+
+What is the IUPAC name of this compound?
+IMAGE: images/org14.svg
+A) 1,3,4-Dithiazine
+B) 1,5,2-Dithiazin
+C) 1,5,2-Dithiazine
+D) 1,3,4-Dithiazane
+Answer: C
+
+### Question 5
+
+What is the IUPAC name of this compound?
+IMAGE: images/org15.svg
+A) 2-methyl-1,2,3-Oxadiazete
+B) 2-methyl-1,2,3-Oxadiazetidine
+C) 2-methyl-1,2,3-Oxadiazetane
+D) None of the above
+Answer: A
+
+### Question 6
+
+What is the IUPAC name of this compound?
+IMAGE: images/org16.svg
+Answer: oxirane
+
+### Question 7
+
+What is the IUPAC name of this compound?
+IMAGE: images/org17.svg
+Answer: aziridine
+
+### Question 8
+
+What is the IUPAC name of this compound?
+IMAGE: images/org18.svg
+A) 1,2,5-Oxadiazolane
+B) 1,2,5-Oxadiazole
+C) 1,2,3-Oxadiazole
+D) 1,2,5-Oxadiazolidine
+Answer: B
+
+### Question 9
+
+What is the IUPAC name of this compound?
+IMAGE: images/org19.svg
+Answer: perhydroazine
+
+### Question 10
+
+What is the IUPAC name of this compound?
+IMAGE: images/org110.svg
+A) 2-Methyl-1,4,5-oxathiazine
+B) 6-Methyl-1,4,3-oxathiazane
+C) 6-Methyl-1,4,3-oxathiazin
+D) 6-Methyl-1,4,3-oxathiazine
+Answer: D
+
+### Question 11
+
+What is the IUPAC name of this compound?
+IMAGE: images/org111.svg
+A) 5-Amino-1,2,4-oxathiazin
+B) 5-Amino-1,2,4-oxathiazane
+C) 5-Amino-1,2,4-oxathiazine
+D) 3-Amino-1,4,6-oxathiazine
+Answer: C
+
+### Question 12
+
+What is the IUPAC name of this compound?
+IMAGE: images/org112.svg
+A) 2-methylazete
+B) 2-methylazetidine
+C) 2-methylazetane
+D) 2-methylazane
+Answer: A
+
+### Question 13
+
+What is the IUPAC name of this compound?
+IMAGE: images/org113.svg
+A) 2,6-dihydro-1,5,2-dithiazin
+B) 2,6-dihydro-1,5,2-dithiazine
+C) 6-dihydro-1,5,2-dithiazine
+D) 2,6-dihydro-1,5,2-dithiazane
+Answer: B
+
+### Question 14
+
+What is the IUPAC name of this compound?
+IMAGE: images/org114.svg
+A) 2,3-dihydro-azirine
+B) 2H-azirine
+C) 1H-azirine
+D) 3H-azirine
+Answer: C
+
+### Question 15
+
+What is the IUPAC name of this compound?
+IMAGE: images/org115.svg
+A) 2H-oxazete
+B) 4H-oxazete
+C) 2,3-dihydro-oxazete
+D) 2H-oxazetane
+Answer: A
+
+### Question 16
+
+What is the IUPAC name of this compound?
+IMAGE: images/org116.svg
+A) 2,3-dihydro-azirine
+B) 1,4-dihydro-1,2-diazete
+C) 2,3-dihydro-oxazete
+D) 2,6-dihydro-1,5,2-dithiazane
+Answer: B
+
+### Question 17
+
+What is the IUPAC name of this compound?
+IMAGE: images/org117.svg
+A) 1,2,5-Oxadiazolane
+B) 3,6-dihydro-2H-1,3,4-oxdiazane
+C) 5-Amino-1,2,4-oxathiazane
+D) 3,6-dihydro-2H-1,3,4-oxdiazine
+Answer: D
+
+### Question 18
+
+What is the IUPAC name of this compound?
+IMAGE: images/org118.svg
+A) 4,5-dihydro-1H-1,2,4-triazin-6-one
+B) 3,6-dihydro-2H-1,3,4-oxdiazane
+C) 1,4-dihydro-5H-1,2,4-triazin-6-one
+D) 3,6-dihydro-2H-1,3,4-oxdiazine
+Answer: A
+
+### Question 19
+What is the IUPAC name of this compound?
+IMAGE: images/org119.svg
+A) 2-methylfuran
+B) Tetrahydrofuran
+C) 2-methylpyran
+D) 4H-Pyran
+Answer: A
+
+### Question 20
+What is the IUPAC name of this compound?
+IMAGE: images/org120.svg
+A) 5-chloropyrazine
+B) 5-chloropyrimidine
+C) 5-chloropyridine
+D) 5-chloropyridazine
+Answer: B
+
+
+### Question 21
+What is the IUPAC name of this compound?
+IMAGE: images/org121.svg
+A) Pyrrole
+B) Pyrrolidine
+C) Imidazole
+D) Pyrazole
+Answer: D
+
+
+### Question 22
+What is the IUPAC name of this compound?
+IMAGE: images/org122.svg
+A) perhydro-6-chloro-1,3-oxazin
+B) perhydro-6-chloro-1,3-oxazane
+C) perhydro-6-chloro-1,3-oxazine
+D) 6-chloro-1,3-oxazine
+Answer: C
+
+
+### Question 23
+What is the IUPAC name of this compound?
+IMAGE: images/org123.svg
+A) 1,3-dihydro-diazete
+B) 1,3-diazete
+C) 1,3-diazetidine
+D) 1,3-diazetane
+Answer: B
+
+### Question 24
+What is the IUPAC name of this compound?
+IMAGE: images/org124.svg
+A) 1,3-dihydro-dioxolane
+B) 1,3-dioxole
+C) 1,3-dioxolidine
+D) 1,3-dioxolane
+Answer: D
+
+### Question 25
+What is the IUPAC name of this compound?
+IMAGE: images/org125.svg
+A) 6-nitro-1,2,4-triazin
+B) 6-nitro-1,2,4-triazine
+C) 5-nitro-1,2,4-triazine
+D) 5-nitro-1,3,4-triazine
+Answer: B
+
+### Question 26
+What is the IUPAC name of this compound?
+IMAGE: images/org126.svg
+A) 1,2-oxazetane
+B) 1,2-oxazete
+C) 1,2-oxazetidine
+D) 1,2-oxazane
+Answer: C
+
+### Question 27
+What is the IUPAC name of this compound?
+IMAGE: images/org127.svg
+A) 5-phenyl-oxazolane
+B) 5-phenyl-oxazolidine
+C) 5-phenyl-oxazole
+D) None of the above
+Answer: B
+
+### Question 28
+What is the IUPAC name of this compound?
+IMAGE: images/org128.svg
+A) 2-methyl-1,3,4-thiadiazole
+B) 2-acetyl-1,3,4-thiadiazolidine
+C) 2-acetyl-1,3,4-thiadiazole
+D) 2-acetyl-1,3,4-thiadiazolane
+Answer: C
+
+### Question 29
+What is the IUPAC name of this compound?
+IMAGE: images/org129.svg
+A) 2-Amino-3-cyano azine
+B) 2-Amino-3-cyanopyridin
+C) 2-Amino-3-cyanopyridine
+D) Both A and C
+Answer: D
+
+### Question 30
+What is the IUPAC name of this compound?
+IMAGE: images/org130.svg
+A) 3-bromo-1,2,4-oxadiazole
+B) 1,2,3-Oxadiazole
+C) 3-bromo-1,2,4-oxadiazolane
+D) 2-acetyl-1,3,4-thiadiazolane
+Answer: A
+
+### Question 31
+What is the IUPAC name of this compound?
+IMAGE: images/org131.svg
+A) perhydrothiepine
+B) thiepane
+C) thiepine
+D) thiepin
+Answer: B
+
+### Question 32
+What is the IUPAC name of this compound?
+IMAGE: images/org132.svg
+A) 4-ethyl-1,2,3,5-tetrazine
+B) 2-ethyl-1,3,4,5-tetrazin
+C) 4-ethyl-1,2,3,5-tetrazin
+D) 2-ethyl-1,3,4,5-tetrazine
+Answer: A
+
+### Question 33
+What is the IUPAC name of this compound?
+IMAGE: images/org133.svg
+A) 3H-1,3,4-oxadiazin-2-thione
+B) 3H-1,3,4-oxadiazol-2-thione
+C) 1,4-dihydro-5H-1,2,4-triazin-6-one
+D) 3H-1,3,4-oxadiazol-2-one
+Answer: B
+
+
+### Question 34
+What is the trivial name of this compound?
+IMAGE: images/org134.svg
+A) Pyrazole
+B) Pyrrole
+C) Pyran
+D) Pyrazine
+Answer: B
+
+### Question 35
+What is the trivial name of this compound?
+IMAGE: images/org135.svg
+Answer: Thiophene
+
+### Question 36
+What is the trivial name of this compound?
+IMAGE: images/org136.svg
+Answer: Imidazole
+
+
+### Question 37
+What is the trivial name of this compound?
+IMAGE: images/org137.svg
+A) Oxazole
+B) Isothiazole
+C) Thiazole
+D) Isoxazole
+Answer: C
+
+### Question 38
+What is the trivial name of this compound?
+IMAGE: images/org138.svg
+A) Oxazole
+B) Isothiazole
+C) Thiazole
+D) Isoxazole
+Answer: A
+
+### Question 39
+What is the trivial name of this compound?
+IMAGE: images/org139.svg
+A) Oxazole
+B) Isothiazole
+C) Thiazole
+D) Isoxazole
+Answer: B
+
+### Question 40
+What is the trivial name of this compound?
+IMAGE: images/org140.svg
+A) Oxazole
+B) Isothiazole
+C) Thiazole
+D) Isoxazole
+Answer: D
+
+### Question 41
+What is the trivial name of this compound?
+IMAGE: images/org141.svg
+Answer: Pyrazole
+
+### Question 42
+What is the trivial name of this compound?
+IMAGE: images/org142.svg
+A) Pyridine
+B) Pyridazine
+C) Pyrimidine
+D) Pyrazine
+Answer: B
+
+### Question 43
+What is the trivial name of this compound?
+IMAGE: images/org143.svg
+A) Pyridine
+B) Pyridazine
+C) Pyrimidine
+D) Pyrazine
+Answer: C
+
+### Question 44
+What is the trivial name of this compound?
+IMAGE: images/org144.svg
+A) Pyridine
+B) Pyridazine
+C) Pyrimidine
+D) Pyrazine
+Answer: D
+
+### Question 45
+What is the trivial name of this compound?
+IMAGE: images/org145.svg
+Answer: 2H-pyran
+
+### Question 46
+What is the trivial name of this compound?
+IMAGE: images/org146.svg
+Answer: 4H-pyran
+
+### Question 47
+What is the trivial name of this compound?
+IMAGE: images/org147.svg
+Answer: tetrahydrofuran
+
+### Question 48
+What is the trivial name of this compound?
+IMAGE: images/org148.svg
+Answer: tetrahydrothiophene
+
+### Question 49
+What is the trivial name of this compound?
+IMAGE: images/org149.svg
+A) Pyrrolidine
+B) piperazine	
+C) Piperidine
+D) Pyrazine
+Answer: A
+
+### Question 50
+What is the trivial name of this compound?
+IMAGE: images/org150.svg
+A) Pyrrolidine
+B) piperazine	
+C) Piperidine
+D) Pyrazine
+Answer: C
+
+### Question 51
+What is the trivial name of this compound?
+IMAGE: images/org151.svg
+A) Pyrrolidine
+B) piperazine	
+C) Piperidine
+D) Pyrazine
+Answer: B

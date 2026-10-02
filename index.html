@@ -1175,13 +1175,6 @@
 
             container.innerHTML = html;
 
-            if (isTextQuestion(q) && !hasAnswered) {
-                setTimeout(() => {
-                    const input = document.getElementById('text-answer-field');
-                    if (input) input.focus();
-                }, 50);
-            }
-
             if (window.renderMathInElement) {
                 renderMathInElement(container, {
                     delimiters: [
